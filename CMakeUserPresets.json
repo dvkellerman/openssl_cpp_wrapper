@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/dvkeller/Desktop/openssl_cpp/build/build/Debug/generators/CMakePresets.json"
+    ]
+}

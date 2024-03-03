@@ -1,15 +1,13 @@
-include(FindOpenSSL)
-
-message("OpenSLL found = ${OPENSSL_FOUND}")
-message("OpenSSL version = ${OPENSSL_VERSION}")
-message("OpenSSL include dir = ${OPENSSL_INCLUDE_DIR}")
-message("OpenSSL libs = ${OPENSSL_LIBRARIES}")
+find_package(OpenSSL REQUIRED)
 
 file(GLOB SRC src/*.cpp)
 
-message("SRC ${SRC}")
-
 add_library(openssl_wrapper_lib STATIC SRC)
+
+if(OpenSSL_FOUND)
+    message("Found OpenSSL in library!")
+endif()
+message("testing librarry")
 
 target_include_directories(openssl_wrapper_lib PUBLIC include)
 

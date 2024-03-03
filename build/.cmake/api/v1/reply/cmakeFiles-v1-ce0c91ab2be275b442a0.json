@@ -9,6 +9,10 @@
 			"path" : "build/CMakeFiles/3.27.7/CMakeSystem.cmake"
 		},
 		{
+			"isGenerated" : true,
+			"path" : "build/build/Debug/generators/conan_toolchain.cmake"
+		},
+		{
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "/usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake"
@@ -104,12 +108,27 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "/usr/share/cmake/Modules/Compiler/GNU-CXX.cmake"
+			"path" : "/usr/share/cmake/Modules/Compiler/Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "/usr/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux-Clang-CXX.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -125,6 +144,68 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "/usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/build/Debug/generators/OpenSSLConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/build/Debug/generators/OpenSSLConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/build/Debug/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/build/Debug/generators/OpenSSLTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/build/Debug/generators/OpenSSL-debug-armv8-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/build/Debug/generators/OpenSSL-Target-debug.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/build/Debug/generators/ZLIBConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/build/Debug/generators/ZLIBConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/build/Debug/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/build/Debug/generators/ZLIBTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/build/Debug/generators/ZLIB-debug-armv8-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/build/Debug/generators/ZLIB-Target-debug.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/dvkeller/.conan2/p/b/opens8d80e00d82d50/p/lib/cmake/conan-official-openssl-variables.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",

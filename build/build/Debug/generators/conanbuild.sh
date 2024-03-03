@@ -1,0 +1,1 @@
+. "/home/dvkeller/Desktop/openssl_cpp/build/build/Debug/generators/conanbuildenv-debug-armv8.sh"
