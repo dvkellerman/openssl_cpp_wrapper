@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/dvkeller/Desktop/openssl_cpp/build",
+  "command": "/usr/lib64/ccache/c++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/main.dir/main.cpp.o -c /home/dvkeller/Desktop/openssl_cpp/main.cpp",
+  "file": "/home/dvkeller/Desktop/openssl_cpp/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]

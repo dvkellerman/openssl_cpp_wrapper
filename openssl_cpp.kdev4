@@ -1,0 +1,3 @@
+[Project]
+Name=openssl_cpp
+Manager=KDevCMakeManager
